@@ -1,6 +1,6 @@
 jupyter==1.0.0
 pandas==2.2.2
-yfinance==0.2.38
+yfinance==0.2.61
 pandas-datareader==0.10.0
 plotly==5.21.0
 matplotlib==3.8.4
